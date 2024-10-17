@@ -12,18 +12,10 @@ const AboutDetails = () => {
           }
         >
           <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
-            Architect of Enchantment
+            Pioneer of the Future
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-            My journey in web development is powered by an array of mystical
-            tools and languages, with JavaScript casting the core of my
-            enchantments. I wield frameworks like React.js and Next.js with
-            precision, crafting seamless portals (websites) that connect realms
-            (users) across the digital universe. The ancient arts of the
-            Jamstack empower me to create fast, secure, and dynamic experiences,
-            while my design skills ensure every creation is not only functional
-            but visually captivating. Join me as I continue to explore new
-            spells and technologies to shape the future of the web.
+             My journey in web development is powered by cutting-edge technologies and languages, with JavaScript driving the core of my creations. I expertly navigate frameworks like React.js and Next.js, crafting seamless gateways (websites) that connect users across the vast digital landscape. The advanced methods of the MERN allow me to create fast, secure, and dynamic experiences, while my design skills ensure every project is as visually stunning as it is functional. Join me as I explore the frontiers of technology, shaping the future of the web with bold, new ideas.
           </p>
         </ItemLayout>
 
@@ -67,7 +59,7 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full"}>
           <img
             className="w-full h-auto"
-            src={`https://skillicons.dev/icons?i=appwrite,aws,babel,bootstrap,cloudflare,css,d3,docker,figma,firebase,gatsby,git,github,graphql,html,ipfs,js,jquery,kubernetes,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,supabase,tailwind,threejs,vercel,vite,vscode,yarn`}
+            src={`https://skillicons.dev/icons?i=bootstrap,css,docker,figma,firebase,git,github,graphql,html,js,jquery,kubernetes,linux,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,replit,sass,tailwind,threejs,vercel,vite,vscode,yarn`}
             alt="CodeBucks"
             loading="lazy"
           />
